@@ -1,0 +1,8 @@
+Imaginary Britain in the 1950s-1970s. The world of post-apocalypse: there are almost no people, the cities are ruled by robots who once gained consciousness and decided to adopt the style and habits of youth movements 
+(Mods, Teddy Boys, Ore Boys, British skinheads, etc.). At the head of the factions is Robot Boss, a music lover of Ska, Rockabilly, Punk and Northern Soul.
+The people living among them are not sad and enjoy all possible benefits that have been given by accelerated scientific progress. Among such benefits is Boss's invention - a trumpet with a built-in radio receiver, a weapon that becomes 
+more powerful if you use it in the rhythm of music.
+The hero needs to get to the refrigerator and get a can of drink. Since the refrigerator is also a robot, it has its own character and can run away. The player's task is to catch up with the refrigerator and quench his thirst, 
+but to do this you will have to fight off the robots, which “leather” just annoys.
+
+Implemented mechanics: enemy ai, mooving, attack, metronome
