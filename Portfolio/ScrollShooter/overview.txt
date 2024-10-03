@@ -1,0 +1,3 @@
+A two-dimensional game where you have to kill bosses for completion
+The game was made by one
+Implemented mechanics: running, jumping, shooting, ability to dash, working with animations, enemy ai, inventory, upgrade system, healing, save system, inventory system

@@ -1,0 +1,4 @@
+A game about bagging and delivering food in a warehouse
+The main game is played as a loader using a mobile controller, as well as a map mode, where you build a route to the desired street
+The development took place in a team of 6 people, I was a developer on unity
+Implemented mechanics: walking the character with the controller, packing goods, taking items from the closet, interactive map.

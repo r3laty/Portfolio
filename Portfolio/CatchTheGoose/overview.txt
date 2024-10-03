@@ -1,0 +1,3 @@
+A game in which you have to catch geese at speed, three game modes (differing in speed), coin system, store, change skins
+The game was made by myself
+Implemented mechanics: pause menu, level selection menu, points system, store, skin system, object pool.
