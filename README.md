@@ -57,5 +57,5 @@ Implemented mechanics: running, jumping, shooting, ability to dash, working with
 * Itch.io - <https://r3laty.itch.io/scrollshooter>
 
 ![Screenshot](Portfolio/ScrollShooter/photo_2024-05-16_18-18-41.png?raw=true)
-![Screenshot](Portfolo/ScrollShooter/photo_2024-05-16_18-19-34.png?raw=true)
+![Screenshot](Portfolio/ScrollShooter/photo_2024-05-16_18-19-34.png?raw=true)
 ![Screenshot](Portfolio/ScrollShooter/photo_2024-05-16_18-22-13.png?raw=true)
